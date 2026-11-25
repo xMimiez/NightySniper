@@ -107,8 +107,6 @@ Do not commit or share these files. `sniper_tokens.json` contains usable Discord
 - [xMimiez](https://github.com/xMimiez) (`Mime | @n0_.q3`)
 - [neoarz](https://github.com/neoarz)
 
-The icon is copied from [xMimiez/nighty-tab-plugin](https://github.com/xMimiez/nighty-tab-plugin/blob/main/asset/icon.webp).
-
 ## License
 
 Nighty Sniper is licensed under the [PolyForm Noncommercial License 1.0.0](./LICENSE).

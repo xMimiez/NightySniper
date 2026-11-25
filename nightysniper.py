@@ -17,7 +17,7 @@
 
 @nightyScript(
     name="Sniper",
-    author="Mime | @n0_.q3, Neoarz",
+    author="Mime | @n0_.q3, neoarz",
     description="Forward gift, promotion, and invite links from this account and extra tokens.",
     usage="Open the Sniper tab. Add a webhook, then any extra account tokens."
 )
